@@ -17,3 +17,12 @@ T Manoj Kumar
 
 GitHub:
 https://github.com/manojkumar-dev06
+## How to run the project
+
+Step 1: Install Python
+
+Step 2: Download the file
+library_management_system.py
+
+Step 3: Run the command:
+python library_management_system.py
